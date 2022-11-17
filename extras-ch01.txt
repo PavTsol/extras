@@ -2,6 +2,8 @@
 
 ![](cs-minecraft.md){.include}
 
+![](mc_c.md){.mc_c}
+
 ## Η περίπτωση του Xerox Star
 
 ![](cs-star.md){.include}
