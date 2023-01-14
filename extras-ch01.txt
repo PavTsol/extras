@@ -4,9 +4,18 @@
 
 ![](mc_c.md){.mc_c}
 
+
 ## Η περίπτωση του Xerox Star
 
 ![](cs-star.md){.include}
+
+## Η περιπτωση του dwm
+
+![](dwm.md]{.mc_c}
+
+## Σύντομη βιογραφία του David Canfield Smith
+
+![](david-smith.md){.mc_c}
 
 ## Σύντομη βιογραφία του Ivan Sutherland
 
