@@ -11,7 +11,7 @@
 
 ## Η περιπτωση του dwm
 
-![](dwm.md]{.mc_c}
+![](dwm.md){.mc_c}
 
 ## Σύντομη βιογραφία του David Canfield Smith
 
